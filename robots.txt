@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: /dlma/
-Disallow: /dlma/index.html
-Disallow: /imcrazy/
-Disallow: /imcrazy/index.html
-Disallow: *.pdf$
