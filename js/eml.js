@@ -1,0 +1,1 @@
+var username="gg",hostname="ohgigue.com",linktext='<span class="icon icon-email" title="email gg(at)ohgigue(dot)com"></span>';document.write("<a href='mailto:"+username+"@"+hostname+"' >"+linktext+"</a>");
